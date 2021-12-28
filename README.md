@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @carrieschreiber
+- 👀 I’m interested in data analysis and bioinformatics 
+- 🌱 I’m currently learning Python and Rstats
